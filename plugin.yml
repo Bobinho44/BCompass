@@ -1,0 +1,9 @@
+name: BCompass
+version: 1.0
+author: Bobinho
+main: fr.bobinho.BCompass.Main
+api-version: 1.13
+commands:
+  bcompass:
+    description: Using a compass to get to a position.
+    permission: Mg.gm
